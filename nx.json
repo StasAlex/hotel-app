@@ -25,6 +25,15 @@
     "hotel-app-e2e": {
       "tags": [],
       "implicitDependencies": ["hotel-app"]
+    },
+    "api": {
+      "tags": []
+    },
+    "data": {
+      "tags": []
+    },
+    "hotel-app-ui": {
+      "tags": []
     }
   }
 }
